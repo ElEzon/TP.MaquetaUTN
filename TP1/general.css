@@ -1,0 +1,100 @@
+ /* Inicio de Modificaciones generales */
+    *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+  body{
+    background: #000000;
+  }
+  h2{
+    font-family: sans-serif;
+  }
+  p{
+    font-family: sans-serif;
+  }
+  .BG1 {
+    background: #DBA80F; 
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+  }
+  .BG2 {
+    background: #AD1818;
+    border-bottom: 2px solid black;
+  }
+  .BG3 {
+    background: #139440;
+    border-bottom: 2px solid black;
+  }
+  .BG4 {
+    background: #020024;
+   border-bottom: 2px solid black;
+  }
+  .BG5 {
+    background: #4A2E03;
+    border-top: 5px solid black;
+  }
+  
+  h1 {
+    padding-left: 80px;
+    font-family: Lacquer;
+    font-size: 50px;
+    color: white; 
+    margin: 30px;
+    padding-bottom: 12px;
+    width: 700px;
+    border-bottom: 5px solid white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+  }
+  
+  li {
+    list-style: none;
+  } 
+ /* Final de Modificaciones generales */
+
+  /* Inicio Imagenes Card */
+  .img1 {
+    background-image: url(../TP1/assets/images/VideoJuegos/HollowKnightPlush.jpg);
+  }
+  .img2 {
+    background-image: url(../TP1/assets/images/VideoJuegos/Elden\ Ring\ Figura.jpg);
+  }
+  .img3 {
+    background-image: url(../TP1/assets/images/VideoJuegos/Pokemones.png);
+  }
+  .img4 {
+    background-image: url(../TP1/assets/images/VideoJuegos/RedHood\ batmanArkhamKnight.jpg);
+  }
+  .img5 {
+    background-image: url(../TP1/assets/images/Musica/ACDCdisco.png);
+  }
+  .img6 {
+    background-image: url(../TP1/assets/images/Musica/Megadeth.webp);
+  }
+  .img7 {
+    background-image: url(../TP1/assets/images/Musica/remera-soad.jpg);
+  }
+  .img8 {
+    background-image: url(../TP1/assets/images/Musica/Remera\ Queen.webp);
+  }
+  .img9 {
+    background-image: url(../TP1/assets/images/Cine/Anillo\ del\ Senior\ de\ los\ anillos.png);
+  }
+  .img10 {
+    background-image: url(../TP1/assets/images/Cine/Buzo\ HarryPotter.png);
+  }
+  .img11 {
+    background-image: url(../TP1/assets/images/Cine/Juegos\ del\ hambre.png);
+  }
+  .img12 {
+    background-image: url(../TP1/assets/images/Cine/Taza\ Harry\ Potter.png);
+  }
+  /* Final Imagenes Card */
